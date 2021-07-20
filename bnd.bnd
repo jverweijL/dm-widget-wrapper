@@ -1,0 +1,4 @@
+Bundle-Name: dm-widget-wrapper
+Bundle-SymbolicName: dm.widget.wrapper
+Bundle-Version: 1.0.0
+Export-Package: dm.widget.wrapper.constants
